@@ -1,2 +1,3 @@
-from .module import say_hello,
-LoanPredictor
+# List your dependencies here
+# numpy
+# pandas
